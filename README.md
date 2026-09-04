@@ -1,5 +1,5 @@
 # KiteDynamics
-Exploring kite structures through plane aerodynamics and physics. Code, models, and simulations
+Exploring [kite structures](https://www.kiteshop.pk/blog/category/kite-types-designs/) through plane aerodynamics and physics. Code, models, and simulations
 
 ## 🎯 Goal
 To model, simulate, and understand how kites behave like wings—bridging fun and science.
